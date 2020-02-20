@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\desig\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\desig\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_OsmBuilder.96467212.00" t="ExcludeRecursive" />
+    <e p="D:\Repo\OsmBuilder" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CreatedScripts" t="Include">
+          <e p="CameraScript.cs" t="Include" />
+          <e p="InputScript.cs" t="Include" />
+          <e p="OsmUtils.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="copyright.txt" t="Include" />
+          <e p="map2.txt" t="Include" />
+          <e p="mountflorida.txt" t="Include" />
+          <e p="ny.txt" t="Include" />
+          <e p="paris.txt" t="Include" />
+          <e p="toronto.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BuildingMaker.cs" t="Include" />
+          <e p="InfrastructureBehaviour.cs" t="Include" />
+          <e p="MapReader.cs" t="Include" />
+          <e p="MercatorProjection.cs" t="Include" />
+          <e p="RoadMaker.cs" t="Include" />
+          <e p="Serialization" t="Include">
+            <e p="BaseOsm.cs" t="Include" />
+            <e p="OsmBounds.cs" t="Include" />
+            <e p="OsmNode.cs" t="Include" />
+            <e p="OsmWay.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OsmBuilder.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
